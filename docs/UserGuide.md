@@ -979,7 +979,7 @@ For example:
 
    ![Delete attendance after](images/ugimages/DeleteAttendanceAfter.png)
 
-#### Displaying attendance statistics : `stats`
+#### Displaying attendance statistics : `stats` - Jun Long
 
 If you would like to find out how your student is performing in class, you can make use of this command.
 
